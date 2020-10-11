@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/django-react-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-react-app/react-pr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-react-boilerplate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/django-react-boilerplate/react-pr" vcs="Git" />
+  </component>
+</project>
